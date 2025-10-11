@@ -5,6 +5,10 @@
   "author": "Ben Scholzen 'DASPRiD'",
   "license": "BSD-3-Clause",
   "description": "Parse URL search prams into nested structures",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DASPRiD/nested-search-params.git"
+  },
   "keywords": [
     "URLSearchParams",
     "parser",
